@@ -12,6 +12,7 @@ SQL
 Sequence of Steps:
 
 Step 1: Script to Create Backend SQL Tables
+
 Step 2: Python Script to Automatically Remove Files
 
 
