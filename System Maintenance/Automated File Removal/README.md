@@ -6,6 +6,7 @@ of your server, or wherever it is that you're storing these files. This guides a
 thought out process. 
 
 
-Languages Uses
+Languages Used:
+
 Python
 SQL
