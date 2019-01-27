@@ -5,7 +5,7 @@ In any Business Integlligence Organization, analysts tend to create new processe
 
 Languages Used:
 
-Python
+Python,
 SQL
 
 
