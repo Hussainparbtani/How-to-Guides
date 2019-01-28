@@ -18,4 +18,4 @@ Step 2: Python Script to Automatically Remove Files
 
 Final Notes:
 
-In this process we read from SQL tables to figure out which directories we want to delete from. This can easily be done from a csv or an excel file. Deleting files can often be scary so putting more logic to ensure you don't remove anything important is highly recommended. I'm also keeping a log of what I delete but that is also not necessary depending on the needs of your business. 
+In this process we read from SQL tables to figure out which directories we want to delete from. This can easily be subsituted with a csv or an excel file. Deleting files can often be scary so putting more logic to ensure you don't remove anything important is highly recommended. I'm also keeping a log of what I delete but that is also not necessary depending on the needs of your business. 
